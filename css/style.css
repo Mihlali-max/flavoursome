@@ -1340,6 +1340,65 @@ form label {
   text-decoration: none;
   outline: none;
 }
+.com{
+  border-radius: 3px;
+}
+.ub{
+  color: #1a1a1a;
+  font-size: 20px;
+    
+    background: rgb(12, 12, 12);
+    border: none;
+    color: white;
+    font-size: 2.25em;
+    font-family: "Raleway", sans-serif;
+    border-radius: 7px;
+    cursor: pointer;
+
+  
+}
+h1, h2, h3, h4, h5, h6, figure {
+  color: #000;
+  font-family: "Kaushan Script", cursive;
+  font-weight: 400;
+  margin: 0 0 20px 0;
+}
+h1, .h1 {
+  font-size: 40px;
+  color:white;
+}
+aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  border-radius: 4px;
+  font-style: italic;
+  background-color: #ffbf00;
+}
+.gtco-cover p {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 13px !important;
+  font-weight: 300;
+}
+.gtco-cover p {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 15px !important;
+  font-weight: 300;
+  line-break: 5px;
+  line-height: 3;
+}
+  #page {
+    position: relative;
+    overflow-x: hidden;
+    width: 100%;
+    height: 100%;
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    transition: 0.5s;
+    background-color: #DBA912;
+}
+
 #gtco-header h1 {
   margin-bottom: 0px;
   font-size: 80px;
